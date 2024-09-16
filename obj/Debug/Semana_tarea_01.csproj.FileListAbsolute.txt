@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\bin\Debug\Semana_tarea_01.exe.config
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\bin\Debug\Semana_tarea_01.exe
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\bin\Debug\Semana_tarea_01.pdb
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\obj\Debug\Semana_tarea_01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\obj\Debug\Semana_tarea_01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\obj\Debug\Semana_tarea_01.exe
+C:\Users\User\source\repos\Semana_tarea_01\Semana_tarea_01\obj\Debug\Semana_tarea_01.pdb
